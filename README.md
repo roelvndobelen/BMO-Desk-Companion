@@ -4,8 +4,6 @@ A personal Adventure Time-inspired build combining an animated character, voice 
 
 BMO runs on a Raspberry Pi 5 inside a customized 3D-printed enclosure. The goal is to give him a little personality while making him genuinely useful on my desk.
 
-And yes, I know the colors do not match the original BMO! This version wears blue rather than the original turquoise-green.
-
 This page documents the features, hardware, installed software, and operation of my build. It does not contain application code or installation commands. The interface and voice commands are currently configured in Dutch; this overview is written in English.
 
 Documentation updated: **21 September 2026**. Software inventory was inspected on the Raspberry Pi on that date.
